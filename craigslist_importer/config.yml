@@ -1,0 +1,64 @@
+# The Config file should be in the following format
+# 
+# The parent element is the name of the bot , craigslist will be loaded into
+# CraigslistBot. The childern of that element will be passed in and the bot itself
+# will be expected to know what to do with it
+
+states:
+  - al
+  - ak
+  - az
+  - ar
+  - ca
+  - co
+  - ct
+  - de
+  - dc
+  - fl
+  - ga
+  - hi
+  - id
+  - il
+  - in
+  - ia
+  - ks
+  - ky
+  - la
+  - me
+  - md
+  - ma
+  - mi
+  - mn
+  - ms
+  - mo
+  - mt
+  - ne
+  - nv
+  - nh
+  - nj
+  - nm
+  - ny
+  - nc
+  - nd
+  - oh
+  - ok
+  - or
+  - pa
+  - ri
+  - sc
+  - sd
+  - tn
+  - tx
+  - ut
+  - vt
+  - va
+  - wa
+  - wv
+  - wi
+  - wy    
+query:
+  - Vanagon
+search:
+  forSale: sss
+
+  
